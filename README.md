@@ -25,8 +25,12 @@ This is a simple weekly planner created using TypeScript and React. It is a solo
 - HTML
 - CSS
 
+### Screenshot
+<img width="1677" alt="README" src="https://github.com/zxcv74720/simple-weekly-planner/assets/99382754/df3b67d7-e655-45ce-bb44-f823844cd8e1">
+
 ### Acknowledgments
 
 This project was inspired by the need for a simple, customizable weekly planner.
 Created for personal use among friends, this planner was developed with a sense of simplicity and practicality in mind.
 Special thanks to the React and TypeScript communities for their helpful resources and documentation.
+
